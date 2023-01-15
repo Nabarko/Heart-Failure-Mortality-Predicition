@@ -1,0 +1,4 @@
+pandas==1.5.2
+sklearn3==0.0.1
+pandas-profiling==3.6.2
+skimpy==0.0.7
